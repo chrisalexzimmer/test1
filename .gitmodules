@@ -1,0 +1,3 @@
+[submodule "joman"]
+	path = joman
+	url = https://github.com/chrisalexzimmer/joman
